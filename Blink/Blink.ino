@@ -1,12 +1,9 @@
 /*
-  Blink
-  Turns on an LED on for one second, then off for one second, repeatedly.
-
-  This example code is in the public domain.
+  Led binary counter thingie
+  
 */
 
-// Pin 13 has an LED connected on most Arduino boards.
-// give it a name:
+// init leds
 int led1 = 13;
 int led2 = 12;
 int led3 = 11;
